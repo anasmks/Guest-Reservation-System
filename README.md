@@ -1,6 +1,6 @@
 # Guest-Reservation-System
 
-# Guest-Reservation-System is simple java based console application...
+# Guest-Reservation-System is a simple java based console application...
 
 The guest reservation system we will build will be a simple console-based application that allows users to make, view, and cancel reservations.
 
